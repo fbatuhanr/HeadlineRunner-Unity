@@ -4,4 +4,4 @@
 ## PLAY ON ITCH.IO: https://fbatuhanr.itch.io/headline-runner
 
 ## GAMEPLAY VIDEO:
-Uploading Headline Runner Gameplay.mp4…
+https://user-images.githubusercontent.com/34348780/191098668-fdfb08b4-3adc-43a1-934b-b1ddb78379a5.mp4
